@@ -323,7 +323,7 @@ footer{
 .footer-foot{
   display: flex;
   flex-direction: row;
-  height: 40vh;
+  height: 30vh;
   justify-content: center;
   column-gap: 120px;
 }
