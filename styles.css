@@ -359,3 +359,16 @@ font-size: 15px;
   flex-direction: column;
   text-align: center;
 }
+
+.section-5{
+  background-color: aqua;
+}
+
+.contact-button{
+  background-color: blue;
+  width: fit-content;
+  padding: 15px;
+  border: none;
+  border-radius: 90px;
+  color: white;
+}
